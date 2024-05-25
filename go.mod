@@ -1,4 +1,4 @@
-module go_line_login
+module github.com/Chanokthorn/go-line-login
 
 go 1.21.6
 
